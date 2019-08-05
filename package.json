@@ -1,0 +1,27 @@
+{
+  "name": "myprotein-discount-codes",
+  "version": "1.0.0",
+  "description": "A collection of Myprotein discount codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "myprotein",
+    "discount",
+    "codes",
+    "voucher",
+    "codes",
+    "discount",
+    "coupon",
+    "voucher",
+    "testing",
+    "test",
+    "protein",
+    "fitness"
+  ],
+  "author": "Wethrift.com",
+  "license": "ISC",
+  "homepage": "https://www.wethrift.com/myprotein"
+}

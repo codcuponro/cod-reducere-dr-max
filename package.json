@@ -1,27 +1,19 @@
 {
-  "name": "myprotein-discount-codes",
+  "name": "cod-reducere-dr-max",
   "version": "1.0.0",
-  "description": "A collection of Myprotein discount codes",
+  "description": "O colecție de coduri de reducere Dr Max",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "node",
-    "myprotein",
-    "discount",
-    "codes",
-    "voucher",
-    "codes",
-    "discount",
-    "coupon",
-    "voucher",
-    "testing",
-    "test",
-    "protein",
-    "fitness"
+    "dr max",
+    "cod reducere dr max",
+    "voucher dr max",
+    "cupon dr max",
+    "cod promotional dr max"
   ],
-  "author": "Wethrift.com",
+  "author": "CodCupon.ro",
   "license": "ISC",
-  "homepage": "https://www.wethrift.com/myprotein"
+  "homepage": "https://www.codcupon.ro/magazine/dr-max"
 }

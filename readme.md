@@ -1,23 +1,23 @@
-# Myprotein Discount Codes
+# Cod Reducere Dr Max
 
-A collection of [Myprotein discount codes](https://www.wethrift.com/myprotein). We use these for testing [Myprotein UK](https://www.wethrift.com/myprotein), [Myprotein US](https://www.wethrift.com/myprotein-us), [Myprotein Singapore](https://www.wethrift.com/myprotein-singapore), [Myprotein Australia](https://www.wethrift.com/myprotein-australia) and [Myprotein Hong Kong](https://www.wethrift.com/myprotien-hongkong) pages at Wethrift.com.
+O colecție de [coduri de reducere Dr Max](https://www.codcupon.ro/magazine/dr-max). Le folosim pentru testarea cuvintelor cheie [cod reducere Dr Max](https://www.codcupon.ro/magazine/dr-max), [vouchere Dr Max](https://www.codcupon.ro/magazine/dr-max), [cupon](https://www.codcupon.ro/magazine/dr-max), și [cod promotional Dr Max](https://www.codcupon.ro/magazine/dr-max) de pe CodCupon.ro.
 
-## Installation
+## Instalare
 
-Install `myprotein-discount-codes` via NPM:
+Instalează `cod-reducere-dr-max` prin NPM:
 
 ```sh
-npm install myprotein-discount-codes
+npm install cod-reducere-dr-max
 ```
 
-## Usage
+## Utilizare
 
-The package contains in array of objects representing discount codes.
+Pachetul conține un array de obiecte reprezentând coduri de reducere.
 
-In Node:
+În Node:
 
 ```js
-var codes = require('myprotein-discount-codes')
+var codes = require('cod-reducere-dr-max')
 
 console.log(codes)
 
@@ -25,17 +25,17 @@ console.log(codes)
 //   {
 //     site: 'https://www.myprotein.com',
 //     discount_code: 'BENJAMINMP',
-//     offer: '30% discount'
+//     offer: '30% reducere'
 //   },
 //   {
 //     site: 'https://www.myprotein.com',
 //     discount_code: 'HKLOVE',
-//     offer: '50% off'
+//     offer: '50% reducere'
 //   }...
 ```
 
-## About
+## Despre
 
-Myprotein-discount-codes was built by the team at [Wethrift](https://www.wethrift.com) ([development links](https://wethrift.github.io)) to assist with testing.
+Cod-reducere-dr-max a fost creat de echipa de la [CodCupon](https://www.codcupon.ro) ([link-uri de dezvoltare](https://codcupon.github.io)) pentru a ajuta cu testarea.
 
-<https://www.wethrift.com>
+<https://www.codcupon.ro>

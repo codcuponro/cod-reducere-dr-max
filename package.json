@@ -1,1 +1,19 @@
- 
+{
+  "name": "cod-reducere-dr-max",
+  "version": "1.0.8",
+  "description": "O colecție de coduri de reducere Dr Max pentru testarea cuvintelor cheie cod reducere Dr Max, voucher Dr Max, cupon Dr Max și cod promotional Dr Max pe CodCupon.ro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dr max",
+    "cod reducere dr max",
+    "voucher dr max",
+    "cupon dr max",
+    "cod promotional dr max"
+  ],
+  "author": "CodCupon.ro",
+  "license": "ISC",
+  "homepage": "https://www.codcupon.ro/magazine/dr-max"
+} 

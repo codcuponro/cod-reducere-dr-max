@@ -1,6 +1,6 @@
 {
   "name": "cod-reducere-dr-max",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "O colecție de coduri de reducere Dr Max. Le folosim pentru testarea cuvintelor cheie cod reducere Dr Max, voucher Dr Max, cupon Dr Max, și cod promotional Dr Max de pe CodCupon.ro.",
   "main": "index.js",
   "scripts": {

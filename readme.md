@@ -1,6 +1,6 @@
 # Cod Reducere Dr Max
 
-O colecție de [coduri de reducere Dr Max](https://www.codcupon.ro/magazine/dr-max). Le folosim pentru testarea cuvintelor cheie [cod reducere Dr Max](https://www.codcupon.ro/magazine/dr-max), [vouchere Dr Max](https://www.codcupon.ro/magazine/dr-max), [cupon](https://www.codcupon.ro/magazine/dr-max), și [cod promotional Dr Max](https://www.codcupon.ro/magazine/dr-max) de pe CodCupon.ro.
+O colecție de [coduri de reducere Dr Max](https://www.codcupon.ro/magazine/dr-max). Le folosim pentru testarea cuvintelor cheie [cod reducere Dr Max](https://www.codcupon.ro/magazine/dr-max), [voucher Dr Max](https://www.codcupon.ro/magazine/dr-max), [cupon](https://www.codcupon.ro/magazine/dr-max), și [cod promotional Dr Max](https://www.codcupon.ro/magazine/dr-max) de pe CodCupon.ro.
 
 ## Instalare
 
@@ -23,14 +23,14 @@ console.log(codes)
 
 // [
 //   {
-//     site: 'https://www.myprotein.com',
-//     discount_code: 'BENJAMINMP',
-//     offer: '30% reducere'
+//     site: 'https://www.drmax.ro',
+//     cod_reducere: 'LIFTACTIV',
+//     reducere: '25% reducere'
 //   },
 //   {
-//     site: 'https://www.myprotein.com',
-//     discount_code: 'HKLOVE',
-//     offer: '50% reducere'
+//     site: 'https://www.drmax.ro',
+//     cod_reducere: 'PHASK50',
+//     reducere: '50% reducere'
 //   }...
 ```
 

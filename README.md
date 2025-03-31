@@ -36,6 +36,6 @@ console.log(codes)
 
 ## Despre
 
-Cod-reducere-dr-max a fost creat de echipa de la [CodCupon](https://www.codcupon.ro) ([link-uri de dezvoltare](https://codcupon.github.io)) pentru a ajuta cu testarea.
+Cod-reducere-dr-max a fost creat de echipa de la [CodCupon](https://www.codcupon.ro) ([link-uri de dezvoltare](https://codcuponro.github.io)) pentru a ajuta cu testarea.
 
 <https://www.codcupon.ro>

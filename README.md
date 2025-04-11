@@ -1,6 +1,6 @@
 # Cod Reducere Dr Max
 
-O colecție de [coduri de reducere Dr Max](https://www.codcupon.ro/magazine/dr-max). Le folosim pentru testarea cuvintelor cheie [cod reducere Dr Max](https://www.codcupon.ro/magazine/dr-max), [voucher Dr Max](https://www.codcupon.ro/magazine/dr-max), [cupon Dr Max](https://www.codcupon.ro/magazine/dr-max), și [cod promotional Dr Max](https://www.codcupon.ro/magazine/dr-max) de pe CodCupon.ro.
+O colecție de [coduri de reducere Dr Max](https://www.codcupon.ro/dr-max). Le folosim pentru testarea cuvintelor cheie [cod reducere Dr Max](https://www.codcupon.ro/dr-max), [voucher Dr Max](https://www.codcupon.ro/dr-max), [cupon Dr Max](https://www.codcupon.ro/dr-max), și [cod promotional Dr Max](https://www.codcupon.ro/dr-max) de pe CodCupon.ro.
 
 ## Instalare
 
